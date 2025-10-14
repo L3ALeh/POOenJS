@@ -28,3 +28,4 @@ console.log(voiture.afficherDonneesvoiture());
 voiture.demarrer();
 voiture.accelerer();
 voiture.demarrer();
+
