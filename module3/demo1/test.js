@@ -1,5 +1,5 @@
-import {Client} from "./Client.js";
-import {Voiture} from "./Voiture.js";
+import {Client} from "./client.js";
+import {Voiture} from "./voiture.js";
 
 let v1 = new Voiture();
 v1.numeroSerie = 1234567891234
